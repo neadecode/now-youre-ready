@@ -1,10 +1,13 @@
+*.csproj
+*.slnx
+
 # User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
-*.slnx
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -85,7 +88,6 @@ StyleCopReport.xml
 *.tmp
 *.tmp_proj
 *_wpftmp.csproj
-*.csproj
 *.log
 *.tlog
 *.vspscc
